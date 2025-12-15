@@ -1,0 +1,16 @@
+491c2dbb59df5eedeace5fd038eb44cb *DESCRIPTION
+e837290dfa30feaeaa6619718da4c41d *LICENSE
+91d3b922cb70141a2d5962a2e5e58f35 *NAMESPACE
+357d7477149c04cdb375cbf923391931 *NEWS.md
+118ada16a91bc9ee70a57f1bd5772541 *R/package_imports.R
+45516888b5aeab40d236aa0049d6091d *R/run_app.R
+dfe92565e9d9f9f9ff8598dae464e91c *README.md
+b4cc18daf7ace5e25949658eb8b74e0f *inst/CITATION
+e69a1b75ab107c51ed8b115d14a826d5 *inst/app/app.R
+a0aea58327cdd0dab3d814f5d2d86b52 *inst/app/data/ESS11_BE_data.csv
+9d0b668125bea80ef9732576f092a68d *inst/app/data/ESS11_BE_description.csv
+cf3b6a20edd3e35a919ae26ab1173bd0 *inst/app/www/custom.css
+f08558ae4f393ab3a9d96c9f1e8f6819 *man/AssociationExplorer2-package.Rd
+9f2d4b18ade780dff87e626c6b4afcc4 *man/run_associationexplorer.Rd
+bbdfd8852e33b6c9776d15a13dc5c71e *tests/testthat.R
+dc548b08944ebcffb4ba537c065c1ce2 *tests/testthat/test-run.R

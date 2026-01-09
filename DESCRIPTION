@@ -1,7 +1,7 @@
 Package: AssociationExplorer2
 Title: A User-Friendly 'shiny' Application for Exploring Associations
         and Visual Patterns
-Version: 0.1.2
+Version: 0.1.4
 Authors@R: 
     c(
       person("Antoine", "Soetewey",
@@ -12,7 +12,7 @@ Authors@R:
       person("Arnaud", "Claes", role = "aut", comment = c("0000-0003-0716-0798")),
       person("Antonin", "Descampe", role = "aut", comment = c("0000-0002-0943-4126"))
     )
-Description: A user-friendly 'shiny' application to explore statistical associations and visual patterns in multivariate datasets. The app provides interactive correlation networks, bivariate plots, and summary tables for different types of variables (numeric and categorical). It also supports optional survey weights and range-based filters on association strengths, making it suitable for the exploration of survey and public data by non-technical users, journalists, educators, and researchers. For background and methodological details, see Soetewey et al. (2025) <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5637359>.
+Description: A user-friendly 'shiny' application to explore statistical associations and visual patterns in multivariate datasets. The app provides interactive correlation networks, bivariate plots, and summary tables for different types of variables (numeric and categorical). It also supports optional survey weights and range-based filters on association strengths, making it suitable for the exploration of survey and public data by non-technical users, journalists, educators, and researchers. For background and methodological details, see Soetewey et al. (2025) <doi:10.1016/j.softx.2025.102483>.
 License: MIT + file LICENSE
 URL: https://github.com/AntoineSoetewey/AssociationExplorer2
 BugReports: https://github.com/AntoineSoetewey/AssociationExplorer2/issues
@@ -25,7 +25,7 @@ Suggests: visNetwork, ggplot2, plotly, dplyr, tidyr, readr, readxl,
         knitr, rmarkdown, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2025-12-09 09:47:52 UTC; antoinesoetewey
+Packaged: 2026-01-09 10:49:34 UTC; antoinesoetewey
 Author: Antoine Soetewey [aut, cre] (ORCID:
     <https://orcid.org/0000-0001-8159-0804>),
   Cédric Heuchenne [aut] (0000-0002-3150-3044),
@@ -33,4 +33,4 @@ Author: Antoine Soetewey [aut, cre] (ORCID:
   Antonin Descampe [aut] (0000-0002-0943-4126)
 Maintainer: Antoine Soetewey <antoine.soetewey@uclouvain.be>
 Repository: CRAN
-Date/Publication: 2025-12-15 17:40:07 UTC
+Date/Publication: 2026-01-09 11:00:11 UTC

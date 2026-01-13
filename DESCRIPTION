@@ -1,7 +1,7 @@
 Package: AssociationExplorer2
 Title: A User-Friendly 'shiny' Application for Exploring Associations
         and Visual Patterns
-Version: 0.1.4
+Version: 0.1.5
 Authors@R: 
     c(
       person("Antoine", "Soetewey",
@@ -25,7 +25,7 @@ Suggests: visNetwork, ggplot2, plotly, dplyr, tidyr, readr, readxl,
         knitr, rmarkdown, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2026-01-09 10:49:34 UTC; antoinesoetewey
+Packaged: 2026-01-13 11:16:22 UTC; antoinesoetewey
 Author: Antoine Soetewey [aut, cre] (ORCID:
     <https://orcid.org/0000-0001-8159-0804>),
   Cédric Heuchenne [aut] (0000-0002-3150-3044),
@@ -33,4 +33,4 @@ Author: Antoine Soetewey [aut, cre] (ORCID:
   Antonin Descampe [aut] (0000-0002-0943-4126)
 Maintainer: Antoine Soetewey <antoine.soetewey@uclouvain.be>
 Repository: CRAN
-Date/Publication: 2026-01-09 11:00:11 UTC
+Date/Publication: 2026-01-13 11:50:23 UTC
